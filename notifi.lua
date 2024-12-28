@@ -1,10 +1,8 @@
 local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
-	Title = "Notification";
-	Text = "Is this a notification?";
-	Duration = 5;
-	--Callback here
-	Button1 = "Yes";
-	Button2 = "No";
+	Title = "Asolar";
+	Text = "Attached!";
+	Duration = 3;
+	
 })
